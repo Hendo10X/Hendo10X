@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hendo10X
+# 👋 Hi, I'm Henderson [Short for Hendo]
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
