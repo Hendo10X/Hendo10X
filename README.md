@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 💼 I’m looking to collaborate on open-source projects. Feel free to reach out if you have any interesting projects!
 - 💬 Ask me about JavaScript, Python, Game development and web development. I'm always happy to help or discuss these topics.
 - 📫 How to reach me: hendersondike@gmail.com
-- ⚡ Fun fact: I love hiking and playing chess. 🧠  💪
+- ⚡ Fun fact: I love reading books and playing video games. 🧠  💪
 
 ## 🛠️ Technologies & Tools
 
