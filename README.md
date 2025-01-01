@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 * Feel free to reach out and say hi! I'm always looking to connect with other developers.*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://https://www.linkedin.com/in/henderson-dike-benard-617885237/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https:///x.com/boihendo) 
 
 Thank you for visiting my profile!
