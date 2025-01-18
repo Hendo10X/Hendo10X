@@ -28,15 +28,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 [![Hendo10X's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hendo10X&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📌 Pinned Repositories
-
-*These are some of the projects I'm most proud of or actively working on.*
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Hendo10X&repo=Repo1&theme=radical)](https://github.com/Hendo10X/Repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Hendo10X&repo=Repo2&theme=radical)](https://github.com/Hendo10X/Repo2)
-
-## 📝 Blog Posts
-
 ## 📫 Connect with me
 
 * Feel free to reach out and say hi! I'm always looking to connect with other developers.*
