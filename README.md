@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henderson [Short for Hendo]
+# hello world, it's hendo
 
 
 I am a software enginner with a taste for creative designs and human interdace interactions.
