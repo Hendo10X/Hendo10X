@@ -4,6 +4,6 @@ I love tackling tough problems, learning new tech, and creating software that’
 
 physics grad.  
 
-I'm currently learning go. 
+I'm currently learning go and python. 
 
 check my page out for more info www.hendo.space
