@@ -4,4 +4,3 @@ I love tackling tough problems, learning new tech, and creating software that’
 
 physics grad.  
 
-check my page out for more info www.hendo.space
